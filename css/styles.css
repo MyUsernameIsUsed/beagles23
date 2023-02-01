@@ -1,0 +1,87 @@
+/* CSS Document */
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body {
+    background-color: #E4F2EA;
+}
+
+/****** Header Section ********************/
+header {
+    background-color: #734F2F;
+    min-height: 250px;
+	background-image: url("../images/home_beagle.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 20% 20%;
+}
+
+.hnav {
+	padding: 5px 0;
+	width: 100%;
+	background-color: #11181e;
+	min-height: 50px;
+}
+
+.hnav ul {
+	display: block;
+	text-align: center;
+}
+
+.hnav ul li {
+	display: inline-block;
+	list-style: none;
+	width: 15%;
+	background-color: red;
+	margin: .6%;
+}
+
+.hnav a {
+	color: #E4F2EA;
+	text-decoration: none;
+	font-size: 1.5em;
+}
+
+h1 {
+   
+}
+
+h2 {
+    
+}
+
+blockqoute {
+	
+}
+
+table{
+	
+}
+
+.fnav {
+	padding: 5px 0;
+	width: 100%;
+	background-color: #11181e;
+	min-height: 50px;
+}
+
+.fnav ul {
+	display: block;
+	text-align: center;
+}
+
+.fnav ul li {
+	display: inline-block;
+	list-style: none;
+	width: 15%;
+	background-color: red;
+	margin: .6%;
+}
+
+.fnav a {
+	color: #E4F2EA;
+	text-decoration: none;
+	font-size: 1.5em;
+}
